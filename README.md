@@ -8,6 +8,8 @@
   - 개발 환경 세팅 및 기본 예제
   - 콘솔 입출력 기초
 
+
+
 - **[2주차 자료 보러가기](https://github.com/Xssgh/GameProgramming/tree/main/week2)**
   - 커서 제어, 화면 지우기
   - 키 입력 처리 및 메뉴 구현
