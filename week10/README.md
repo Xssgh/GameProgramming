@@ -18,6 +18,6 @@
 - OutArea(낙하 판정), GoalArea(도착 판정) 구성  
 - UI(Text) 기반 타이머 및 결과 화면 구현  
 - Retry 버튼과 GameResult 스크립트 연결<br>
-![실습 예시 사진](images/ex02.png)
+![실습 예시 사진](images/ex02.JPG)
 
 
