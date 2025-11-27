@@ -6,7 +6,7 @@
 - C# 스크립트 생성 및 연결  
 - 위치 출력, 조건(if) 처리  
 - 충돌 처리(OnCollisionEnter / OnTriggerEnter) <br>
-![실습 예시 시잔](images/ex01.jpg)
+![실습 예시 사진](images/ex01.JPG)
 ---
 
 ### **[RUN 장애물 런 게임 요약 자료](#)**
