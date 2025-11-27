@@ -19,4 +19,4 @@
 - UI(Text) 기반 타이머 및 결과 화면 구현  
 - Retry 버튼과 GameResult 스크립트 연결
 
-(images/ex01.png)
+(image/ex01.png)
