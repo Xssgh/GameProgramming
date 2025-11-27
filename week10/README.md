@@ -5,7 +5,7 @@
 - Rigidbody / Collider 설정  
 - C# 스크립트 생성 및 연결  
 - 위치 출력, 조건(if) 처리  
-- 충돌 처리(OnCollisionEnter / OnTriggerEnter)
+- 충돌 처리(OnCollisionEnter / OnTriggerEnter) <br>
 ![실습 예시 시잔](images/ex01.png)
 ---
 
